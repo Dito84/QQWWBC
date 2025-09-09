@@ -1,17 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="98.1 Pearl FM (720p)" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="MUSICA",98.1 Pearl FM (720p)
-https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-name="70-80 TV (1080P)" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="MUSICA",70-80 TV (1080P)
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 tvg-name="30A Music Channel" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSICA",30A Music Channel
-https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 tvg-name="13 Festival (1080p)" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="MUSICA",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-name="Steelbird Music" tvg-logo="https://i.imgur.com/Egijzx3.png" group-title="MUSICA",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSICA",Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSICA",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Stingray CMusic" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="MUSICA",Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/ICONO_IPTV/refs/heads/main/M2O.jpg" group-title="Variedad",Reglamento de Crédito 
+https://www.dropbox.com/scl/fi/plnvsuopoiwg8uy4u62io/Reglamento-de-cr-dito-mc.mp3?rlkey=0toq0oy2vspuw05og6lnzkc4q&st=dr0lgx57&dl=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/ICONO_IPTV/refs/heads/main/M2O.jpg" group-title="Variedad",Manual de Cobranza
+https://www.dropbox.com/scl/fi/y2m91tmcjjzzl5nkaybbf/Manual-de-Cobranza-mc.mp3?rlkey=41u2ldml6dzzpsd8e8q496qw6&st=lrlei5rx&dl=1
